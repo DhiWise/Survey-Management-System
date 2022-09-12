@@ -37,10 +37,10 @@ Typeform Creation
 </ul>
 
 # Screenshots:
-![Form Link](https://github.com/bhakti-tech02/surveyManagment/blob/main/src/assets/images/home.png)
-![LogIn](https://github.com/bhakti-tech02/surveyManagment/blob/main/src/assets/images/googleauth.png)
-![Group Message](https://github.com/bhakti-tech02/surveyManagment/blob/main/src/assets/images/msgGrp.png)
-![Telegram](https://github.com/bhakti-tech02/surveyManagment/blob/main/src/assets/images/telegram.png)
+![Form Link](https://github.com/DhiWise/Survey-Management-System/blob/master/src/assets/images/home.png)
+![LogIn](https://github.com/DhiWise/Survey-Management-System/blob/master/src/assets/images/googleauth.png)
+![Group Message](https://github.com/DhiWise/Survey-Management-System/blob/master/src/assets/images/msgGrp.png)
+![Telegram](https://github.com/DhiWise/Survey-Management-System/blob/master/src/assets/images/telegram.png)
 
 # Setup
 
